@@ -1,0 +1,95 @@
+.nav-item {
+    margin-top: 15px;
+}
+
+footer {
+    margin-top: 0%;
+    height: auto;
+    background-color: #303034;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size:small;
+}
+
+span a {
+    color: #FF6701;
+    text-decoration: none;
+}
+
+#headline-container {
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#headline {
+    font-size: larger;
+    font-weight: 800;
+    color: #FF6701;
+}
+
+#content {
+    margin-bottom: 30%;
+}
+
+
+#headline {
+    font-size: xx-large;
+}
+
+#heritage {
+    width: 500px;
+    margin-bottom: 10%;
+}
+
+#lowrider {
+    width: 500px;
+    margin-bottom: 10%;
+}
+
+#fatbob {
+    width: 500px;
+    margin-bottom: 10%;
+}
+
+#fatboy {
+    width: 500px;
+    margin-bottom: 10%;
+}
+
+#roadglide {
+    width: 500px;
+    margin-bottom: 10%;
+}
+
+#streetglide {
+    width: 500px;
+    margin-bottom: 10%;
+}
+
+h4 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+video {
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 380px;
+}
+
+@media only screen and (min-width: 768px) {
+    .harley-logo {
+        display: block;
+        max-width: 100px;
+    }
+}
+
+span:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: #FF6701;
+    }
